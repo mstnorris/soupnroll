@@ -3,7 +3,7 @@
     <head>
         <title>Laravel</title>
 
-        <link href="//fonts.googleapis.com/css?family=Lobster+Two:400italic" rel="stylesheet" type="text/css">
+        <link href="//fonts.googleapis.com/css?family=Cookie:400" rel="stylesheet" type="text/css">
 
         <style>
             html, body {
@@ -11,12 +11,14 @@
             }
 
             body {
+                background-color: #a7ffeb;
+                color: #ff80ab;
                 margin: 0;
                 padding: 0;
                 width: 100%;
                 display: table;
                 font-weight: 100;
-                font-family: 'Lobster Two', cursive;
+                font-family: 'Cookie', cursive;
             }
 
             .container {
@@ -38,7 +40,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Soup n Roll</div>
+                <div class="title">Soup 'n' Roll</div>
             </div>
         </div>
     </body>
