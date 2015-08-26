@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Laravel</title>
+        <title>Soup 'n' Roll</title>
 
         <link href="//fonts.googleapis.com/css?family=Cookie:400" rel="stylesheet" type="text/css">
 
